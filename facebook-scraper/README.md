@@ -2,7 +2,7 @@
 This tool lets you download a CSV of your 1st & 2nd degree connections
 
 ## NOTE
-This copy has been modified slightly to meet my set of specific requirements such as utf-8 support.  For the original copy, refer to the author's GitHub page at https://github.com/jcontini/facebook-scraper
+This copy has been modified slightly to meet my set of specific requirements such as utf-8 support.  For the original code, refer to the author's GitHub repo available at https://github.com/jcontini/facebook-scraper
 
 
 ## Installation
