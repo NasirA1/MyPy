@@ -1,6 +1,10 @@
 # Facebook Scraper
 This tool lets you download a CSV of your 1st & 2nd degree connections
 
+## NOTE
+This copy has been modified slightly to meet my set of specific requirements such as utf-8 support.  For the original copy, refer to the author's GitHub page at https://github.com/jcontini/facebook-scraper
+
+
 ## Installation
 You'll need to have python, pip, and [Google Chrome](https://www.google.com/chrome/) installed to use this tool. Once that's all set up:
 
